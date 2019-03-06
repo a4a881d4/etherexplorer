@@ -1,0 +1,20 @@
+{
+  "name": "etherexplorer",
+  "version": "1.0.0",
+  "description": "web3 ethereum explorer",
+  "main": "app.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "a4a881d4",
+  "license": "MIT",
+  "engines": {
+      "node": "0.10.x"
+  },
+  "devDependencies": {
+      "web3": "latest"
+  },
+  "dependencies": {
+      "web3": "latest"
+  }
+}
